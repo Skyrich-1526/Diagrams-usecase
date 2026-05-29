@@ -1,8 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Trang-1" id="RpdHG9jwC2aQBXTqlbAJ">
-    <mxGraphModel dx="984" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" Guest="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="fVAwDO7LzFYYCM0I8AUM-1" parent="1" style="html=1;whiteSpace=wrap;" value="Object" vertex="1">
           <mxGeometry height="50" width="110" x="80" y="490" as="geometry" />
@@ -13,6 +15,23 @@
         <mxCell id="lQ68KXiy3fG7mqjiq2Uq-1" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
           <mxGeometry height="8" width="150" x="190" y="511" as="geometry" />
         </mxCell>
+        <mxCell id="TpJ7gsK1WGa2r5GcaaRX-1" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="TpJ7gsK1WGa2r5GcaaRX-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="TpJ7gsK1WGa2r5GcaaRX-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="TpJ7gsK1WGa2r5GcaaRX-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0" value="Guest&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="390" as="geometry" />
+        </mxCell>
+        <UserObject label="Actor" tooltip="adb" id="TpJ7gsK1WGa2r5GcaaRX-5">
+          <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1">
+            <mxGeometry height="60" width="30" x="110" y="260" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
